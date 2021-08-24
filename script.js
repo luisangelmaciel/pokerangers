@@ -550,15 +550,15 @@ var iconImage = '⮋';
 
 AP.init({
     playList: [
-        { 'icon': iconImage, 'title': ' Dragon Ranger Burai Zyusouken', 'file': 'http://incompetech.com/music/royalty-free/mp3-royaltyfree/Hitman.mp3' },
-        { 'icon': iconImage, 'title': ' Dragonzord call versión piano', 'file': 'https://a.clyp.it/zbh0qeyo.mp3' },
-        { 'icon': iconImage, 'title': ' Mighty Morphin Power Rangers', 'file': 'https://a.clyp.it/bthbgqcs.mp3' },
-        { 'icon': iconImage, 'title': ' Pokeball Abriendose', 'file': 'https://a.clyp.it/lygki3hx.mp3' },
-        { 'icon': iconImage, 'title': ' Pokémon Opening Atrapalos Ya -  Instrumental  con Coros Pikachu', 'file': 'https://a.clyp.it/enddsv44.mp3' },
-        { 'icon': iconImage, 'title': ' Llamada', 'file': '' },
-        { 'icon': iconImage, 'title': ' Putty Power Rangers', 'file': '' },
-        { 'icon': iconImage, 'title': ' Go Go Power Rangers', 'file': '' },
-        { 'icon': iconImage, 'title': ' Pokeball Capturando', 'file': '' },
-        { 'icon': iconImage, 'title': ' Comunicador de los Power Rangers', 'file': '' }
+        { 'icon': iconImage, 'title': ' Dragon Ranger Burai Zyusouken', 'file': 'https://luisangelmaciel.github.io/pokerangers/ringtone/Dragon-Ranger-Burai-Zyusouken.mp3' },
+        { 'icon': iconImage, 'title': ' Dragonzord call versión piano', 'file': 'https://luisangelmaciel.github.io/pokerangers/ringtone/Dragonzord-en-piano.mp3' },
+        { 'icon': iconImage, 'title': ' Mighty Morphin Power Rangers', 'file': 'https://luisangelmaciel.github.io/pokerangers/ringtone/Mighty-Morphin-Power-Rangers.mp3' },
+        { 'icon': iconImage, 'title': ' Pokeball Abriendose', 'file': 'https://luisangelmaciel.github.io/pokerangers/ringtone/Pokeball-Abriendose.mp3' },
+        { 'icon': iconImage, 'title': ' Pokémon Opening Atrapalos Ya -  Instrumental  con Coros Pikachu', 'file': 'https://luisangelmaciel.github.io/pokerangers/ringtone/Opening-Atrapalos-Ya-Instrumental-con-Coros.mp3' },
+        { 'icon': iconImage, 'title': ' Llamada', 'file': 'https://luisangelmaciel.github.io/pokerangers/ringtone/Llamada.mp3' },
+        { 'icon': iconImage, 'title': ' Putty Power Rangers', 'file': 'https://luisangelmaciel.github.io/pokerangers/ringtone/Putty-Power-Rangers.mp3' },
+        { 'icon': iconImage, 'title': ' Go Go Power Rangers', 'file': 'https://luisangelmaciel.github.io/pokerangers/ringtone/Go-Go-Power-Rangers.mp3' },
+        { 'icon': iconImage, 'title': ' Pokeball Capturando', 'file': 'https://luisangelmaciel.github.io/pokerangers/ringtone/Pokeball-Capturando.mp3' },
+        { 'icon': iconImage, 'title': ' Comunicador de los Power Rangers', 'file': 'https://luisangelmaciel.github.io/pokerangers/ringtone/Comunicador-de-los-Power-Rangers.mp3' }
     ]
 });
