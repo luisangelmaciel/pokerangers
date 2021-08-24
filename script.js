@@ -560,6 +560,10 @@ AP.init({
         { 'icon': iconImage, 'title': ' Dragonzord call versión piano', 'file': 'https://luisangelmaciel.github.io/pokerangers/ringtone/Dragonzord-en-piano.mp3' },
         { 'icon': iconImage, 'title': ' Pokémon Opening Atrapalos Ya -  Instrumental  con Coros Pikachu', 'file': 'https://luisangelmaciel.github.io/pokerangers/ringtone/Opening-Atrapalos-Ya-Instrumental-con-Coros.mp3' },
         { 'icon': iconImage, 'title': ' Pokeball Capturando', 'file': 'https://luisangelmaciel.github.io/pokerangers/ringtone/Pokeball-Capturando.mp3' },
-        { 'icon': iconImage, 'title': ' Dragon Ranger Burai Zyusouken', 'file': 'https://luisangelmaciel.github.io/pokerangers/ringtone/Dragon-Ranger-Burai-Zyusouken.mp3' }
+        { 'icon': iconImage, 'title': ' Dragon Ranger Burai Zyusouken', 'file': 'https://luisangelmaciel.github.io/pokerangers/ringtone/Dragon-Ranger-Burai-Zyusouken.mp3' },
+
+        { 'icon': iconImage, 'title': ' Go go Power Ranger - largo  -  Instrumental  con Coros Pikachu', 'file': 'https://luisangelmaciel.github.io/pokerangers/ringtone/go-go.m4a' },
+        { 'icon': iconImage, 'title': ' Comunicador - corto', 'file': 'https://luisangelmaciel.github.io/pokerangers/ringtone/comunicador.m4a' },
+        { 'icon': iconImage, 'title': ' Pikachu una vez', 'file': 'https://luisangelmaciel.github.io/pokerangers/ringtone/pickachu-tierno.m4a' }
     ]
 });
