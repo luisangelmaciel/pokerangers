@@ -1,0 +1,40 @@
+@import url("https://fonts.googleapis.com/css?family=Open+Sans|Slabo+27px");
+body {
+  font-family: "Open Sans", sans-serif;
+}
+
+h1 {
+  margin-bottom: 0;
+  font-family: "Slabo 27px", serif;
+}
+
+p {
+  margin-bottom: 2rem;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background-color: #ededed;
+  text-align: center;
+}
+
+.button {
+  text-transform: uppercase;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0.75rem 1rem;
+  border: 1px solid #333;
+  color: #333;
+  text-decoration: none;
+  transition: all 250ms;
+  margin: 0.5rem 0.5rem;
+}
+.button:active, .button:focus, .button:hover {
+  background-color: #333;
+  color: white;
+}
